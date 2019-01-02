@@ -2,6 +2,6 @@ class HelloWorld
 {
 	main()
 	{
-		sysout("Hello World!!!!!:)");
+		System.Out.println("Hello World!!!!!:)");
 	}
 }
