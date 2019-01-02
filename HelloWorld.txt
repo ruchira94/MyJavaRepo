@@ -1,12 +1,12 @@
 class HelloWorld
 {
-	static void mymethod()
+	static void welcomemethod()
 	{
 		System.Out.println("Hello New World!!!!!:)");
 	}
 
 	main()
 	{
-		mymethod();
+		welcomemethod();
 	}
 }
