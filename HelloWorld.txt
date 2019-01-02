@@ -1,12 +1,13 @@
 class HelloWorld
 {
-	static void mymethod()
+	void mymethod()
 	{
 		System.Out.println("Hello New World!!!!!:)");
 	}
 
 	main()
 	{
-		mymethod();
+		HelloWorld obj = new HelloWorld();
+		obj.mymethod();
 	}
 }
